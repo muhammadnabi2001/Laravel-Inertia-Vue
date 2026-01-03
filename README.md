@@ -41,6 +41,7 @@ Loyihani ishlab chiqishda va komponentlar bilan ishlashda quyidagi rasmiy manbal
 * **[Shadcn Vue](https://www.shadcn-vue.com/docs/installation):** Loyihada ishlatiladigan asosiy UI komponentlar to'plami. O'rnatish va komponentlardan foydalanish bo'yicha qo'llanma.
 * **[Tailwind CSS Docs](https://tailwindcss.com/docs):** Stil va dizayn klasslari (masalan, `h-4`, `w-4`) bo'yicha to'liq ma'lumotnoma.
 * **[Lucide Icons](https://lucide.dev/icons):** Loyihada ishlatiladigan zamonaviy va yengil ikonkar to'plami.
+* **[You tube Video URL](https://youtu.be/9zqgnlHNz44):** Urganilgan you tube video URL
 
 ### ⚙️ Asosiy Texnologiyalar
 * **[Inertia.js Documentation](https://inertiajs.com/):** Backend va Frontend o'rtasidagi aloqani boshqarish (Routing, Data Passing).
@@ -60,4 +61,5 @@ npx shadcn-vue@latest add [komponent-nomi]
 ```bash
 git clone [https://github.com/username/laravel-inertia-vue.git](https://github.com/username/laravel-inertia-vue.git)
 cd laravel-inertia-vue
+
 
