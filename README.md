@@ -44,19 +44,6 @@ Loyihani ishlab chiqishda va komponentlar bilan ishlashda quyidagi rasmiy manbal
 * **[Vue.js 3 Guide](https://vuejs.org/guide/introduction.html):** Komponentlar arxitekturasi va Reaktivlik tizimi.
 * **[Laravel Docs](https://laravel.com/docs):** Backend mantiqi, Controllerlar va Ma'lumotlar bazasi bilan ishlash.
 
----
-
-## 🛠 Shadcn Vue komponentlarini qo'shish
-
-Loyiha ichida yangi Shadcn komponentini qo'shish uchun quyidagi buyruqdan foydalaning:
-
-```bash
-npx shadcn-vue@latest add [komponent-nomi]
-
-### 1. Repozitoriyani klonlash
-```bash
-git clone [https://github.com/username/laravel-inertia-vue.git](https://github.com/username/laravel-inertia-vue.git)
-cd laravel-inertia-vue
 
 
 
