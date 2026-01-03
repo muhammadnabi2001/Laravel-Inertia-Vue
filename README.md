@@ -29,10 +29,6 @@ Loyihada ishlatilgan `h-4`, `w-4` kabi klasslar Tailwind'ning standart o'lchov b
 
 ---
 
-## 🚀 O'rnatish va Ishga tushirish
-
-Lokal muhitda loyihani ishga tushirish uchun quyidagi qadamlarni bajaring:
-
 ## 🔗 Foydali manbalar va Dokumentatsiya
 
 Loyihani ishlab chiqishda va komponentlar bilan ishlashda quyidagi rasmiy manbalardan foydalanish tavsiya etiladi:
@@ -61,5 +57,6 @@ npx shadcn-vue@latest add [komponent-nomi]
 ```bash
 git clone [https://github.com/username/laravel-inertia-vue.git](https://github.com/username/laravel-inertia-vue.git)
 cd laravel-inertia-vue
+
 
 
