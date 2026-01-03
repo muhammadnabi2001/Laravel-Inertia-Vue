@@ -33,7 +33,31 @@ Loyihada ishlatilgan `h-4`, `w-4` kabi klasslar Tailwind'ning standart o'lchov b
 
 Lokal muhitda loyihani ishga tushirish uchun quyidagi qadamlarni bajaring:
 
+## 🔗 Foydali manbalar va Dokumentatsiya
+
+Loyihani ishlab chiqishda va komponentlar bilan ishlashda quyidagi rasmiy manbalardan foydalanish tavsiya etiladi:
+
+### 🎨 UI va Komponentlar
+* **[Shadcn Vue](https://www.shadcn-vue.com/docs/installation):** Loyihada ishlatiladigan asosiy UI komponentlar to'plami. O'rnatish va komponentlardan foydalanish bo'yicha qo'llanma.
+* **[Tailwind CSS Docs](https://tailwindcss.com/docs):** Stil va dizayn klasslari (masalan, `h-4`, `w-4`) bo'yicha to'liq ma'lumotnoma.
+* **[Lucide Icons](https://lucide.dev/icons):** Loyihada ishlatiladigan zamonaviy va yengil ikonkar to'plami.
+
+### ⚙️ Asosiy Texnologiyalar
+* **[Inertia.js Documentation](https://inertiajs.com/):** Backend va Frontend o'rtasidagi aloqani boshqarish (Routing, Data Passing).
+* **[Vue.js 3 Guide](https://vuejs.org/guide/introduction.html):** Komponentlar arxitekturasi va Reaktivlik tizimi.
+* **[Laravel Docs](https://laravel.com/docs):** Backend mantiqi, Controllerlar va Ma'lumotlar bazasi bilan ishlash.
+
+---
+
+## 🛠 Shadcn Vue komponentlarini qo'shish
+
+Loyiha ichida yangi Shadcn komponentini qo'shish uchun quyidagi buyruqdan foydalaning:
+
+```bash
+npx shadcn-vue@latest add [komponent-nomi]
+
 ### 1. Repozitoriyani klonlash
 ```bash
 git clone [https://github.com/username/laravel-inertia-vue.git](https://github.com/username/laravel-inertia-vue.git)
 cd laravel-inertia-vue
+
