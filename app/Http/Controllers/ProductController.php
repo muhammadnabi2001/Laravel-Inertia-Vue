@@ -11,7 +11,8 @@ class ProductController extends Controller
     public function index()
     {
         // dd(123);
-        return Inertia::render('products/index', []);
+        $products = Product::latest()->get();
+        return Inertia::render('products/index', compact('products'));
     }
     public function create()
     {
